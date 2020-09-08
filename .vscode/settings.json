@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "project\\test": true,
+    "project\\.gitignore": true,
+    "project\\.metadata": true,
+    "project\\.packages": true,
+    "project\\project.iml": true,
+    "project\\pubspec.lock": true,
+    "project\\README.md": true,
+    "project\\ios": true,
+    "project\\.idea": true,
+    "project\\.dart_tool": true,
+    ".vscode": true,
+    "project\\build": true
+  }
+}
